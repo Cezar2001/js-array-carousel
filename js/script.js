@@ -24,7 +24,7 @@ const immagine = document.querySelector('.foto');
 const buttonLeft = document.querySelector('#button-left');
 const buttonRight = document.querySelector('#button-right');
 
-testata.innerText = 'Cartone vincitore 2021:'+ ' ' + headLines[currentIndex];
+testata.innerText = 'Cartone vincitore 2021:'+ ' ' + headLines[currentIndex] + '!! ' +'Chi sarà il vincitore 2022?';
 testo.innerText = paragraphs[currentIndex];
 immagine.src = images[currentIndex];
 
