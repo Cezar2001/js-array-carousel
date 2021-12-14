@@ -33,7 +33,7 @@ body{
 }
 
 .headline > h1{
-    font-size: 80px;
+    font-size: 70px;
 }
 
 .paragraph{
@@ -47,6 +47,11 @@ body{
 i{
     font-size: 40px; 
     margin-top: 400px;   
+}
+
+.foto{
+    height: 200px;
+    padding: 20px 0;
 }
 
 
